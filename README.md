@@ -1,4 +1,4 @@
-# Dureksha Arangala – Personal Portfolio
+# Dureksha Arangala – Personal Portfolio | https://durekshaa-portfolio.vercel.app/
 
 A responsive personal portfolio showcasing my data science projects, technical skills, certifications, education, and leadership experience as a final-year Data Science undergraduate at Sri Lanka Technology Campus (SLTC).
 
